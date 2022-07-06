@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 <!--
-**BarbaraVilaro/BarbaraVilaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BarbaraVilaro/BarbaraVilaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+I'm Bachelor of Administration & Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊📈 I’m currently learning Python, SQL & Power Bi for data analysis. For this reason, I will show in this portfolio some of the activities carried out in the courses and activities carried out by me for learning.
+
+#### 📫 Where to find me
+
+- [Gmail](barbimmvilaro@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/barbaravilaro)
+- [Instagram](https://www.instagram.com/consultoriavilaro/)
+
+#### I see you in my profile! 😀
