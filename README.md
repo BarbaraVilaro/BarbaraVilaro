@@ -9,8 +9,8 @@ I'm Bachelor of Administration & Data Analytics
 
 #### 📫 Where to find me
 
-- [Gmail](barbimmvilaro@gmail.com)
+- barbimmvilaro@gmail.com
 - [Linkedin](https://www.linkedin.com/in/barbaravilaro)
-- [Instagram](https://www.instagram.com/consultoriavilaro/)
+- [Instagram](https://www.instagram.com/lic.barbaravilaro/)
 
 #### I see you in my profile! 😀
